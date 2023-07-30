@@ -14,7 +14,7 @@
 
 ---
 # Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kishaku23/Save_restricted_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Aj4ybot/Save_restricted_bot)
 
 # Deploy to vps
 sudo apt update
